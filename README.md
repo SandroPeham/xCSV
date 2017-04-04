@@ -29,6 +29,14 @@ Hint: Rows can also be removed using the 'Delete-Key' on your keyboard.
 File > Convert…
 Then set the desired format and choose a location on your mac where you want the file to be saved.
 
+### Searching
+
+Open the search field by cmd + F or Edit > Find > Find…
+Enter some text and the app searches in the document for it.
+The search results is highlighted.
+If there is more than one search result, hit enter to iterate over all results.
+The number of results is displayed after the search field.
+
 ## Support
 ### IF YOU ARE NOTICING ANY BUGS OR THE APP IS NOT DOING WELL, PLEASE LEAVE AN ISSUE IN THE ISSUES SECTION ON GITHUB OR JUST SEND A MAIL TO 'sandro.peham@gmx.at'.
 ### IF YOU WANT SOME NEW FEATURES IN THE APP, ALSO MAKE AN ISSUE OR SEND A MAIL.
