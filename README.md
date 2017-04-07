@@ -19,9 +19,13 @@ If you want the file in a different format, you can convert the document of cour
 ### Edit Files
 
 **Cells:** Edit the contents of a cell by selecting the row. Then click again in the specified cell.
+
 **Add/Remove/Dublicate:** Select row(s) > right mouse click / ctrl click > Add Above/Add Below/…
 Hint: Rows can also be removed using the 'Delete-Key' on your keyboard.
-**Dragging:** The columns can also be reordered by simple dragging a column header to the specified position.
+
+**Dragging:** Rows and columns can also be reordered by simple dragging a either the selected rows or a column header to the specified position. Holding the option (alt) key while dragging rows copies the dragged rows to the desired location.
+It is also possible to drag rows to a different file if the count of the columns of both files fit.
+
 **Headers:** If your document uses the first row as a header and you want to change the header of a column you only have to deselect the header button in the format view on the bottom of the window, change the cell and finally selecte the header button again.
 
 ### Convert Files
