@@ -20,7 +20,7 @@ If you want the file in a different format, you can convert the document of cour
 
 **Cells:** Edit the contents of a cell by selecting the row. Then click again in the specified cell.
 
-**Add/Remove/Dublicate:** Select row(s) > right mouse click / ctrl click > Add Above/Add Below/…
+**Add/Remove/Duplicate:** Select row(s) > right mouse click / ctrl click > Add Above/Add Below/…
 Hint: Rows can also be removed using the 'Delete-Key' on your keyboard.
 
 **Dragging:** Rows and columns can also be reordered by simple dragging a either the selected rows or a column header to the specified position. Holding the option (alt) key while dragging rows copies the dragged rows to the desired location.
