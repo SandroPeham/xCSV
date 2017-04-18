@@ -4,6 +4,8 @@
 
 A Simple CSV editor for OS X.
 
+Available on the [mac app store](https://itunes.apple.com/us/app/xcsv/id1221944806?mt=12).
+
 ## Instructions
 
 ### Open Files
